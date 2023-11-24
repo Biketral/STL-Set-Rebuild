@@ -1,2 +1,3 @@
 # algorithms-and-data-structures---set-linked-list-
-This project was done in Computer Science in University of Vienna and the implementation was to recreate the std::set with linked lists
+Algorithms and Data Structures in 2nd Semester of University of Vienna. The implementation is written in C++ and it is using dynamic memory allocation. The goal was to recreate the std::set.
+
