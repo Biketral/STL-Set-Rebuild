@@ -1,6 +1,6 @@
 # set - Custom Hash Set in C++
 
-`Algorithms and DataStructures - Set` is a custom implementation of a hash-based set container in C++, similar to `std::unordered_set`. It provides fast insertions, lookups, and deletions using a dynamically managed hash table with chaining for collision resolution.  
+`Algorithms and DataStructures - Set` is a rebuild implementation of the hash-based set container in C++, similar to `std::unordered_set`. It provides fast insertions, lookups, and deletions using a dynamically managed hash table with chaining for collision resolution.  
 
 This project was developed as a **study project** to deepen the understanding of **data structures**, particularly **hash tables, memory management, and iterator design** in C++. By implementing this data structure from scratch, we explore the core concepts behind efficient storage and retrieval mechanisms.
 
